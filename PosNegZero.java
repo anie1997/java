@@ -1,6 +1,6 @@
 import java.util.*;
  
-class PosNegZero
+class Main
 {
     public static void main(String []s)
     {
